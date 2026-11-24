@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#1d3345"/></linearGradient></defs>
+<rect width="960" height="300" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="958" height="298" rx="15" fill="none" stroke="#3a4b5e"/>
+<g font-family="Arial, sans-serif"><text x="42" y="48" fill="#91a8b9" font-size="15" letter-spacing="3">PERSONAL PROJECT / 01</text><text x="40" y="114" fill="#f0f5f9" font-size="43" font-weight="bold">AI GLASSES</text><text x="40" y="163" fill="#f0f5f9" font-size="43" font-weight="bold">EXAM GAME</text><text x="42" y="203" fill="#aabfce" font-size="17">Browser-based strategy game</text><rect x="42" y="236" width="198" height="32" rx="5" fill="#24394c" stroke="#4b657b"/><text x="56" y="257" fill="#d0e2ef" font-size="13" letter-spacing="1">IN DEVELOPMENT</text></g>
+<g transform="translate(542 45)" fill="none" stroke="#91b4cc" stroke-width="3">
+<rect x="0" y="0" width="360" height="210" rx="12" fill="#142331" stroke="#416078"/>
+<path d="M25 45H335M25 165H335" stroke="#385468"/>
+<g stroke="#5f8299" stroke-width="2"><rect x="38" y="64" width="49" height="19" rx="3" fill="#293f51"/><rect x="114" y="64" width="49" height="19" rx="3" fill="#293f51"/><rect x="190" y="64" width="49" height="19" rx="3" fill="#293f51"/><rect x="266" y="64" width="49" height="19" rx="3" fill="#293f51"/><rect x="38" y="96" width="49" height="19" rx="3" fill="#293f51"/><rect x="114" y="96" width="49" height="19" rx="3" fill="#293f51"/><rect x="190" y="96" width="49" height="19" rx="3" fill="#293f51"/><rect x="266" y="96" width="49" height="19" rx="3" fill="#293f51"/><rect x="38" y="128" width="49" height="19" rx="3" fill="#293f51"/><rect x="114" y="128" width="49" height="19" rx="3" fill="#293f51"/><rect x="190" y="128" width="49" height="19" rx="3" fill="#293f51"/><rect x="266" y="128" width="49" height="19" rx="3" fill="#293f51"/></g>
+<path d="M107 16h54l11 22h18l11-22h54" stroke="#b6d6e8" stroke-width="4" stroke-linecap="round"/>
+<path d="M107 16l8 23q20 15 38 0l8-23m40 0l8 23q20 15 38 0l8-23" stroke="#b6d6e8" stroke-width="3"/>
+<circle cx="29" cy="186" r="4" fill="#d4a55d" stroke="none"/>
+<text x="42" y="191" font-family="Arial,sans-serif" font-size="12" fill="#aabfce" stroke="none" letter-spacing="1">TIME / OBSERVATION / RISK</text></g>
+</svg>
