@@ -40,6 +40,8 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 | [영어 회화 퀴즈](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#83-영어-회화-퀴즈-47쪽) | STT, LLM, TTS | 구현 예제 |
 | [계산기 및 BMI 계산기](https://github.com/dong9610-10/dong961010/blob/main/learning/python-ai-learning-lab/README.md) | Python, Gradio | 실행 확인 |
 
+| [Tool Calling 및 MCP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md) | Function Calling, Requests, FastMCP | 학습 및 실습 구조 정리 |
+
 [전체 실습 목록 보기](https://github.com/dong9610-10/dong961010/blob/main/learning/python-ai-learning-lab/README.md)
 
 ---
@@ -52,7 +54,7 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 | AI Applications | OpenAI API, LLM, Prompt Engineering |
 | Multimodal | Vision, Image Generation, STT, TTS |
 | Application UI | Gradio |
-| Tool Integration | Tool Calling, Requests, MCP (학습 중) |
+| Tool Integration | Function Calling, Requests, JSON Schema, FastMCP, Remote MCP (학습 중) |
 | Development Environment | VS Code, Google Colab, GitHub, Codex |
 
 ---
@@ -62,6 +64,10 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 **NVIDIA AI Education Program** · 교육과정 참여 중
 
 강의 내용, 실습 과정, 오류 해결 및 개선 내용을 날짜별로 기록합니다.
+
+**최근 학습:** [2026-11-24 — Tool Calling, Requests & MCP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md)
+
+**팀 프로젝트:** 온라인 콘텐츠·크리에이터 분야 — 문제 정의 및 서비스 방향 검토 중. [기획 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md#8-팀-프로젝트-분야-선정)
 
 - [날짜별 교육 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/README.md)
 - [멀티모달 AI](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/multimodal-vision.md) · [이미지 생성](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/image-generation.md) · [음성 처리](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/speech-audio.md)
