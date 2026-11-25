@@ -34,6 +34,7 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 
 | 실습 | 활용 기술 | 진행 상태 |
 |:---|:---|:---|
+| [다중 문서 RAG 챗봇](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-25.md) | LangChain, Embedding, ChromaDB, BM25, Hybrid Search | 문서 6개 활용 실습 참여 |
 | [속담 그림 퀴즈](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#7-속담-그림-퀴즈-25쪽) | Image Generation, Gradio | 실행 확인 · 개선 중 |
 | [그림판 Artist](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#63-그림판-artist-26쪽) | Vision, Image Generation | 구현 예제 |
 | [통역기 APP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#82-통역기-app-46쪽) | STT, LLM, TTS | 구조 및 실습 정리 |
@@ -53,6 +54,7 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 | AI Applications | OpenAI API, LLM, Prompt Engineering |
 | Multimodal | Vision, Image Generation, STT, TTS |
 | Application UI | Gradio |
+| Retrieval-Augmented Generation | Document Loader, Chunking, Embedding, ChromaDB, Kiwi, BM25, Hybrid Search (실습) |
 | Tool Integration | Function Calling, Requests, JSON Schema, FastMCP, Remote MCP (학습 중) |
 | Development Environment | VS Code, Google Colab, GitHub, Codex |
 
@@ -64,7 +66,9 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 
 강의 내용, 실습 과정, 오류 해결 및 개선 내용을 날짜별로 기록합니다.
 
-**최근 학습:** [2026-11-24 — Tool Calling, Requests & MCP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md)
+**최근 학습:** [2026-11-25 — MCP & Multi-document RAG Chatbot](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-25.md)
+
+**RAG 실습:** 한국어·영어 문서 6개(TXT, PDF, DOCX, CSV, Markdown)를 활용한 챗봇 및 검색 방식 비교. [실습 상세 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-25.md)
 
 **팀 프로젝트:** 온라인 콘텐츠·크리에이터 분야 — 문제 정의 및 서비스 방향 검토 중. [기획 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md#8-팀-프로젝트-분야-선정)
 
