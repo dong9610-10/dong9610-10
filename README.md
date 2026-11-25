@@ -39,7 +39,6 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 | [통역기 APP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#82-통역기-app-46쪽) | STT, LLM, TTS | 구조 및 실습 정리 |
 | [영어 회화 퀴즈](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-23.md#83-영어-회화-퀴즈-47쪽) | STT, LLM, TTS | 구현 예제 |
 | [계산기 및 BMI 계산기](https://github.com/dong9610-10/dong961010/blob/main/learning/python-ai-learning-lab/README.md) | Python, Gradio | 실행 확인 |
-
 | [Tool Calling 및 MCP](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md) | Function Calling, Requests, FastMCP | 학습 및 실습 구조 정리 |
 
 [전체 실습 목록 보기](https://github.com/dong9610-10/dong961010/blob/main/learning/python-ai-learning-lab/README.md)
