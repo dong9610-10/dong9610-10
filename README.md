@@ -8,7 +8,21 @@
 
 ---
 
-## 01 / Featured Project
+## 01 / Featured Projects
+
+### Loop — AI 광고 협업 및 사전 검수 플랫폼
+
+교육과정 프로젝트 · 기획 및 데이터 설계 / 통합 동작 검증 전
+
+광고주와 크리에이터의 캠페인 브리프, 대본, 콘텐츠 검수, 수정 요청 및 승인을 연결하는 AI 서비스입니다.
+
+- 공식 법령 및 업종별 근거 자료의 분류
+- 화장품 광고 위험 유형 7개와 문맥·증빙 기반 검수 기준
+- LLM 및 RAG 기반 검색·판정·수정 제안 구조 설계
+
+**[프로젝트 상세 보기](https://github.com/dong9610-10/dong961010/blob/main/projects/approval-loop/README.md) · [11월 27일 작업 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-27.md)**
+
+---
 
 [![AI Glasses Exam Game — 프로젝트 소개 이미지](assets/exam-game-cover.svg)](https://github.com/dong9610-10/dong961010/blob/main/projects/ai-glasses-exam-game/README.md)
 
@@ -55,6 +69,7 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 | Multimodal | Vision, Image Generation, STT, TTS |
 | Application UI | Gradio |
 | Retrieval-Augmented Generation | Document Loader, Chunking, Embedding, ChromaDB, Kiwi, BM25, Hybrid Search (실습) |
+| AI Advertising Review | 법령 데이터 분류, RAG 근거 검색, 위험 판정 및 평가 설계 |
 | Tool Integration | Function Calling, Requests, JSON Schema, FastMCP, Remote MCP (학습 중) |
 | Development Environment | VS Code, Google Colab, GitHub, Codex |
 
@@ -66,11 +81,11 @@ AI API와 Python을 활용한 학습 및 구현 실습입니다.
 
 강의 내용, 실습 과정, 오류 해결 및 개선 내용을 날짜별로 기록합니다.
 
-**최근 학습:** [2026-11-25 — MCP & Multi-document RAG Chatbot](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-25.md)
+**최근 학습:** [2026-11-27 — Loop AI Advertising Review](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-27.md)
 
 **RAG 실습:** 한국어·영어 문서 6개(TXT, PDF, DOCX, CSV, Markdown)를 활용한 챗봇 및 검색 방식 비교. [실습 상세 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-25.md)
 
-**팀 프로젝트:** 온라인 콘텐츠·크리에이터 분야 — 문제 정의 및 서비스 방향 검토 중. [기획 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/2026/11/2026-11-24.md#8-팀-프로젝트-분야-선정)
+**교육과정 프로젝트:** Loop — 온라인 콘텐츠·크리에이터 협업 및 광고 검수. [프로젝트 상세](https://github.com/dong9610-10/dong961010/blob/main/projects/approval-loop/README.md)
 
 - [날짜별 교육 기록](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/README.md)
 - [멀티모달 AI](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/multimodal-vision.md) · [이미지 생성](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/image-generation.md) · [음성 처리](https://github.com/dong9610-10/dong961010/blob/main/learning/nvidia-ai-training/topics/speech-audio.md)
